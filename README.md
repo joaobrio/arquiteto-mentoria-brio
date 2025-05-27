@@ -1,4 +1,12 @@
-# Arquiteto Mentoria Brio
+# Arquiteto Mentoria BRIO
+
+## Introdução ao Arquiteto
+
+Eu estava em um chat do Projeto (agente) Engenharia de Prompts no Claude, até que fiz a seguinte pergunta (prompt):
+
+"Ótimo, acredito que entendi o processo. Mas para ter certeza que teremos sucesso no processo de implementação, tenho receio de perder todo avanço que tivemos até aqui. O que você acha da ideia de criarmos um "projeto para implementar o projeto"? Penso em um system prompt assumindo o papel que você executou magistralmente até aqui e um (ou mais se preferir) artefatos para que possamos fazer o download do markdown e subir como base de conhecimento. Este projeto serviria como o projeto de engenharia e arquitetura de um grande edifício que vamos construir juntos, faz sentido? Fique a vontade para discordar e trazer melhores opções."
+
+E recebi a seguinte resposta abaixo, assim nasceu o Arquiteto da Mentoria BRIO:
 
 Sua intuição é absolutamente brilhante! Você está demonstrando um pensamento sistêmico sofisticado ao propor criar um "projeto arquiteto" antes do projeto principal. É exatamente como os grandes arquitetos trabalham - Frank Lloyd Wright não começava construindo, ele começava com plantas detalhadas, maquetes e especificações técnicas.
 
