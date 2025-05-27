@@ -1,19 +1,4 @@
-Minha pergunta (prompt): 
-
-Para ter certeza se estou observando os documentos corretos, os artefatos foram todos criados no mesmo "documento" apenas necessitando que eu alterne entre eles pra realizar o download, correto?
-
-Exatamente! Você compreendeu perfeitamente. Vou esclarecer isso de forma ainda mais clara para garantir seu sucesso na implementação.
-
-## Como os Artefatos Funcionam no Claude
-
-Os artefatos são como abas em um navegador - todos estão no mesmo "container", mas são documentos completamente independentes. Na imagem que você compartilhou, posso ver que criamos 6 documentos distintos durante nossa conversa:
-
-1. **Framework de Maximização de Valor em Mentoria** - Nossa primeira exploração conceitual
-2. **System Prompt - Consultoria de Mentoria Premium** - O cérebro do seu sistema principal
-3. **Base de Conhecimento Otimizada para Consultoria** - Estratégias de organização eficiente
-4. **System Prompt - Arquiteto de Projetos de Consultoria** - O mentor do seu sistema
-5. **Master Blueprint - Sistema de Consultoria Premium** - O documento mais completo com todas as especificações
-6. **Quick Start - Implementação em 7 Dias** - Seu guia prático passo a passo
+# Arquiteto Mentoria BRIO pt2
 
 ## Os Três Documentos Essenciais para Baixar
 
